@@ -19,7 +19,7 @@ and the CLI and GUI implementations.
 
 The CLI implementation is available as the workspace project `scheduler-cli`
 
-To run the CLI application, from the cargo workspace run `cargo run -p scheduler-cli` --release
+To run the CLI application, from the cargo workspace run `cargo run -p scheduler-cli --release`
 
 The application guides the user through the steps to input employees and run the scheduler.
 
