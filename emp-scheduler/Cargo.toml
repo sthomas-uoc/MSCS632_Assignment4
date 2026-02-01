@@ -1,0 +1,10 @@
+# [package]
+# name = "emp-scheduler"
+# version = "0.1.0"
+# edition = "2024"
+
+[workspace]
+members = ["scheduler", "scheduler-ui", "scheduler-cli"]
+
+resolver = "2"
+
